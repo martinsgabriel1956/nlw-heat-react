@@ -55,7 +55,3 @@ export function SendMessageForm() {
     </SendMessageFormWrapper>
   );
 }
-
-function UserContext(UserContext: any): { user: any } {
-  throw new Error("Function not implemented.");
-}
